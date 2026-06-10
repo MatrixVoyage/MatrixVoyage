@@ -1,4 +1,5 @@
 # 💫 About Me:
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://hemant-red.vercel.app/)<br>
 👨‍💻 Software developer in progress. Dangerously good at writing bugs.<br>🧠 Currently convincing computers to do what I *mean*, not what I type.<br>Spoiler: they rarely agree.<br>📚 Deep in the DSA rabbit hole — because apparently writing code that works isn't enough, it has to be *efficient* too. The audacity.<br>🔨 I build things. They sometimes work.<br>I'm working on the "sometimes."<br>🤝 Open to collabs, honest feedback, and being humbled by your pull requests.<br>🙃 Fair warning — I may be slow to respond.<br>My compiler is faster than I am.
 
 
