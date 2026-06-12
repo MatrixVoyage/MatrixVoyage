@@ -6,7 +6,7 @@
 
 <!-- HEADER -->
 <div align="center">
-  <img src="./assets/pixel-setup.gif" alt="MatrixVoyage Dev Setup" height="300" width="100%"/>
+  <img src="./assets/pixel-setup.gif" alt="MatrixVoyage Dev Setup" width="100%"/>
 </div>
 
 <br/>
