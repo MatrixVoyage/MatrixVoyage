@@ -12,7 +12,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&random=false&width=680&height=50&lines=Full-Stack+Dev+%7C+Game+Dev+Enthusiast;React+18+%7C+TypeScript+%7C+Three.js+%7C+Node.js;Navigating+the+matrix%2C+one+commit+at+a+time+%F0%9F%9A%80;B.Tech+IT+%40+IIIT+Allahabad+%7C+2%E2%98%85+CodeChef" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&random=false&width=680&height=50&lines=Full-Stack+Dev+%7C+Game+Dev+Enthusiast;React+18+%7C+TypeScript+%7C+Three.js+%7C+Node.js;Navigating+the+matrix%2C+one+commit+at+a+time+%F0%9F%9A%80;B.Tech+IT+%40+IIIT+Allahabad+%7C+3%E2%98%85+CodeChef" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -55,7 +55,7 @@
 > cat status.json
   {
     "mission" : "🎯 Internship Hunt 2025",
-    "rank"    : "2★  CodeChef",
+    "rank"    : "3★  CodeChef",
     "vibe"    : "Engineering depth + Polished UI"
   }
 
